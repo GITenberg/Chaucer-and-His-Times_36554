@@ -1,0 +1,34 @@
+_repo: Chaucer-and-His-Times_36554
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hadow, Grace E. (Grace Eleanor)
+    aliases:
+    - Hadow, G. E. (Grace Eleanor)
+    - Hadow, Grace Eleanor
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '38347'
+    url: http://www.gutenberg.org/2009/agents/38347
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Eleanor_Hadow
+description: ''
+gutenberg_issued: '2011-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36554'
+  lccn: '14013588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Home University Library of Modern Knowledge, No. 81
+subjects:
+- !lcsh 'Chaucer, Geoffrey, -1400'
+- !lcsh 'England -- Civilization -- 1066-1485'
+- !lcsh 'Poets, English -- Middle English, 1100-1500 -- Biography'
+- !lcc 'PR'
+title: Chaucer and His Times
+url: http://www.gutenberg.org/ebooks/36554
